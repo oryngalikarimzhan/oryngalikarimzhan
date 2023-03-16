@@ -1,14 +1,8 @@
-![c98a5198d0cf2b687b6b606a6d9cad7c](https://user-images.githubusercontent.com/89511325/206914717-f1f50c7d-4d4b-488d-be8c-4c2b3a3f9e80.svg)
-
-
-<h1 align="center">Hi 👋, I'm Oryngali | Oryn | Warren</h1>
-<h3 align="center">Web Developer.</h3>
+<h1 align="center">Oryngali Karimzhan</h1>
+<h3 align="center">WEB DEVELOPER</h3>
 <img align="right" width="400" alt="ava" src="https://user-images.githubusercontent.com/89511325/206873220-731e66d1-51d2-4ecc-9ad9-deb8f1e80e69.png">
 
 
-- 🔭 I’m currently studying at [RSSchool](https://app.rs.school/)
-
-- 🌱 I’m currently learning **JavaScript, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://rolling-scopes-school.github.io/oryngalikarimzhan-JSFE2022Q3/](https://rolling-scopes-school.github.io/oryngalikarimzhan-JSFE2022Q3/)
 
@@ -30,3 +24,5 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oryngalikarimzhan&show_icons=true&theme=tokyonight&title_color=ab00fa&bg_color=230057&hide_border=true&locale=en" alt="oryngalikarimzhan" /></p>
+
+![c98a5198d0cf2b687b6b606a6d9cad7c](https://user-images.githubusercontent.com/89511325/206914717-f1f50c7d-4d4b-488d-be8c-4c2b3a3f9e80.svg)
