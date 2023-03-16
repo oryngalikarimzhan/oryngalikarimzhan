@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Oryngali | Oryn | Warren</h1>
-<h3 align="center">I am the best programmer, but this may not be accurate.</h3>
+<h3 align="center">Web Developer.</h3>
 <img align="right" width="400" alt="ava" src="https://user-images.githubusercontent.com/89511325/206873220-731e66d1-51d2-4ecc-9ad9-deb8f1e80e69.png">
 
 
